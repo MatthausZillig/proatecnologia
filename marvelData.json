@@ -1,0 +1,606 @@
+{
+    "data": [
+        {
+            "name": "3-D Man",
+            "comics": 12,
+            "events": 1,
+            "stories": 21
+        },
+        {
+            "name": "A-Bomb (HAS)",
+            "comics": 0,
+            "events": 0,
+            "stories": 1
+        },
+        {
+            "name": "A.I.M.",
+            "comics": 47,
+            "events": 0,
+            "stories": 48
+        },
+        {
+            "name": "Aaron Stack",
+            "comics": 6,
+            "events": 0,
+            "stories": 12
+        },
+        {
+            "name": "Abomination (Emil Blonsky)",
+            "comics": 40,
+            "events": 2,
+            "stories": 47
+        },
+        {
+            "name": "Abomination (Ultimate)",
+            "comics": 3,
+            "events": 0,
+            "stories": 1
+        },
+        {
+            "name": "Absorbing Man",
+            "comics": 73,
+            "events": 4,
+            "stories": 82
+        },
+        {
+            "name": "Abyss",
+            "comics": 8,
+            "events": 1,
+            "stories": 8
+        },
+        {
+            "name": "Abyss (Age of Apocalypse)",
+            "comics": 3,
+            "events": 1,
+            "stories": 2
+        },
+        {
+            "name": "Adam Destine",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Adam Warlock",
+            "comics": 152,
+            "events": 9,
+            "stories": 176
+        },
+        {
+            "name": "Aegis (Trey Rollins)",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Agent Brand",
+            "comics": 13,
+            "events": 0,
+            "stories": 16
+        },
+        {
+            "name": "Agent X (Nijo)",
+            "comics": 18,
+            "events": 0,
+            "stories": 23
+        },
+        {
+            "name": "Agent Zero",
+            "comics": 24,
+            "events": 0,
+            "stories": 25
+        },
+        {
+            "name": "Agents of Atlas",
+            "comics": 33,
+            "events": 1,
+            "stories": 40
+        },
+        {
+            "name": "Aginar",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Air-Walker (Gabriel Lan)",
+            "comics": 4,
+            "events": 1,
+            "stories": 3
+        },
+        {
+            "name": "Ajak",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Ajaxis",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Akemi",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Alain",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Albert Cleary",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Albion",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Alex Power",
+            "comics": 10,
+            "events": 0,
+            "stories": 13
+        },
+        {
+            "name": "Alex Wilder",
+            "comics": 8,
+            "events": 0,
+            "stories": 8
+        },
+        {
+            "name": "Alexa Mendez",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Alexander Pierce",
+            "comics": 1,
+            "events": 0,
+            "stories": 1
+        },
+        {
+            "name": "Alice",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Alicia Masters",
+            "comics": 55,
+            "events": 2,
+            "stories": 77
+        },
+        {
+            "name": "Alpha Flight",
+            "comics": 196,
+            "events": 7,
+            "stories": 348
+        },
+        {
+            "name": "Alpha Flight (Ultimate)",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Alvin Maker",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Amanda Sefton",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Amazoness",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "American Eagle (Jason Strongbow)",
+            "comics": 5,
+            "events": 0,
+            "stories": 5
+        },
+        {
+            "name": "Amiko",
+            "comics": 12,
+            "events": 1,
+            "stories": 12
+        },
+        {
+            "name": "Amora",
+            "comics": 8,
+            "events": 0,
+            "stories": 8
+        },
+        {
+            "name": "Amphibian (Earth-712)",
+            "comics": 3,
+            "events": 0,
+            "stories": 2
+        },
+        {
+            "name": "Amun",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Ancient One",
+            "comics": 30,
+            "events": 3,
+            "stories": 34
+        },
+        {
+            "name": "Angel (Thomas Halloway)",
+            "comics": 9,
+            "events": 0,
+            "stories": 8
+        },
+        {
+            "name": "Angel (Ultimate)",
+            "comics": 4,
+            "events": 0,
+            "stories": 2
+        },
+        {
+            "name": "Angel (Warren Worthington III)",
+            "comics": 81,
+            "events": 5,
+            "stories": 85
+        },
+        {
+            "name": "Angela (Aldrif Odinsdottir)",
+            "comics": 12,
+            "events": 0,
+            "stories": 12
+        },
+        {
+            "name": "Anita Blake",
+            "comics": 0,
+            "events": 0,
+            "stories": 49
+        },
+        {
+            "name": "Anne Marie Hoag",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Annihilus",
+            "comics": 60,
+            "events": 1,
+            "stories": 74
+        },
+        {
+            "name": "Anole",
+            "comics": 2,
+            "events": 0,
+            "stories": 2
+        },
+        {
+            "name": "Ant-Man (Eric O'Grady)",
+            "comics": 42,
+            "events": 7,
+            "stories": 41
+        },
+        {
+            "name": "Ant-Man (Scott Lang)",
+            "comics": 79,
+            "events": 2,
+            "stories": 106
+        },
+        {
+            "name": "Anthem",
+            "comics": 11,
+            "events": 1,
+            "stories": 20
+        },
+        {
+            "name": "Apocalypse",
+            "comics": 94,
+            "events": 6,
+            "stories": 94
+        },
+        {
+            "name": "Apocalypse (Ultimate)",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Aqueduct",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Arachne",
+            "comics": 6,
+            "events": 1,
+            "stories": 7
+        },
+        {
+            "name": "Araña",
+            "comics": 17,
+            "events": 0,
+            "stories": 15
+        },
+        {
+            "name": "Arcade",
+            "comics": 29,
+            "events": 2,
+            "stories": 27
+        },
+        {
+            "name": "Arcana",
+            "comics": 2,
+            "events": 0,
+            "stories": 1
+        },
+        {
+            "name": "Archangel",
+            "comics": 562,
+            "events": 19,
+            "stories": 602
+        },
+        {
+            "name": "Arclight",
+            "comics": 14,
+            "events": 3,
+            "stories": 14
+        },
+        {
+            "name": "Ares",
+            "comics": 58,
+            "events": 5,
+            "stories": 62
+        },
+        {
+            "name": "Argent",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Armadillo",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Armor (Hisako Ichiki)",
+            "comics": 21,
+            "events": 0,
+            "stories": 22
+        },
+        {
+            "name": "Armory",
+            "comics": 2,
+            "events": 1,
+            "stories": 1
+        },
+        {
+            "name": "Arnim Zola",
+            "comics": 22,
+            "events": 2,
+            "stories": 24
+        },
+        {
+            "name": "Arsenic",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Artiee",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Asgardian",
+            "comics": 8,
+            "events": 0,
+            "stories": 8
+        },
+        {
+            "name": "Askew-Tronics",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Asylum",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Atlas (Team)",
+            "comics": 12,
+            "events": 0,
+            "stories": 8
+        },
+        {
+            "name": "Aurora",
+            "comics": 67,
+            "events": 4,
+            "stories": 74
+        },
+        {
+            "name": "Avalanche",
+            "comics": 40,
+            "events": 7,
+            "stories": 46
+        },
+        {
+            "name": "Avengers",
+            "comics": 1523,
+            "events": 34,
+            "stories": 2242
+        },
+        {
+            "name": "Avengers (Ultimate)",
+            "comics": 41,
+            "events": 0,
+            "stories": 33
+        },
+        {
+            "name": "Azazel (Mutant)",
+            "comics": 2,
+            "events": 0,
+            "stories": 3
+        },
+        {
+            "name": "Banshee",
+            "comics": 178,
+            "events": 10,
+            "stories": 197
+        },
+        {
+            "name": "Banshee (Theresa Rourke)",
+            "comics": 152,
+            "events": 6,
+            "stories": 172
+        },
+        {
+            "name": "Baron Strucker",
+            "comics": 41,
+            "events": 1,
+            "stories": 41
+        },
+        {
+            "name": "Baron Zemo (Heinrich Zemo)",
+            "comics": 30,
+            "events": 1,
+            "stories": 26
+        },
+        {
+            "name": "Baroness S'Bak",
+            "comics": 1,
+            "events": 1,
+            "stories": 1
+        },
+        {
+            "name": "Barracuda",
+            "comics": 5,
+            "events": 0,
+            "stories": 5
+        },
+        {
+            "name": "Bart Rozum",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Bastion",
+            "comics": 36,
+            "events": 2,
+            "stories": 36
+        },
+        {
+            "name": "Batroc the Leaper",
+            "comics": 28,
+            "events": 0,
+            "stories": 32
+        },
+        {
+            "name": "Battering Ram",
+            "comics": 2,
+            "events": 0,
+            "stories": 2
+        },
+        {
+            "name": "Beak",
+            "comics": 15,
+            "events": 0,
+            "stories": 14
+        },
+        {
+            "name": "Beast",
+            "comics": 783,
+            "events": 29,
+            "stories": 856
+        },
+        {
+            "name": "Beast (Earth-311)",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Beast (Ultimate)",
+            "comics": 43,
+            "events": 0,
+            "stories": 53
+        },
+        {
+            "name": "Becatron",
+            "comics": 0,
+            "events": 0,
+            "stories": 0
+        },
+        {
+            "name": "Alice",
+            "comics": 8,
+            "events": 0,
+            "stories": 7
+        },
+        {
+            "name": "Beef",
+            "comics": 1,
+            "events": 0,
+            "stories": 1
+        },
+        {
+            "name": "Beetle (Abner Jenkins)",
+            "comics": 19,
+            "events": 2,
+            "stories": 26
+        },
+        {
+            "name": "Ben Grimm",
+            "comics": 38,
+            "events": 1,
+            "stories": 56
+        },
+        {
+            "name": "Ben Parker",
+            "comics": 11,
+            "events": 0,
+            "stories": 12
+        },
+        {
+            "name": "Ben Reilly",
+            "comics": 17,
+            "events": 0,
+            "stories": 17
+        },
+        {
+            "name": "Ben Urich",
+            "comics": 52,
+            "events": 4,
+            "stories": 57
+        }
+    ]
+}
+
+

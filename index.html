@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="node_modules\materialize-css\dist\css\materialize.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Dashboard-Proatecnologia</title>
+    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+</head>
+<body>
+<!--Header-->    
+<header id="dashboard-header">
+    <nav>
+        <div class="nav-wrapper red darken-1">
+            <a href="#" class="brand-logo center">Marvel</a>
+            <a href="#" class="medium material-icons">arrow_back</a>
+        </div>
+    </nav>
+</header>
+<!--End Header-->
+
+<!--Main-->
+<main id="dashboard-main">
+    <section id="big-cont" class="container">
+        <div class="row">
+            <div class="col s12 m6 l6">
+                <div class="card-panel grey lighten-2 z-depth-3">
+                    <span class="black-text flow-text">
+                        Total Characters:
+                    </span>
+                    <h1 class="black-text">
+                         1.421
+                    </h1>
+                </div>
+            </div>
+            <div class="col s12 m6 l6">
+                <div class="card-panel grey lighten-2 z-depth-3">
+                    <span class="black-text flow-text">
+                        Total of characters that defeated Thanos in the movies:
+                    </span>
+                    <h1 class="black-text">
+                        0
+                    </h1>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="graph-cont" class="container">
+        <div class="row">
+            <div class="col s12 m12 l3">
+                <div class="card-panel grey lighten-5 z-depth-3">
+                        <i class="medium material-icons">account_box</i>
+                        <span class="flow-text center">Characters with more appearances in the comics:</span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col s12 l9 z-depth-4">
+                    <canvas id="myChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="table-cont" class="container">
+        <div id="card-margin" class="row">
+            <div class="col s12 m12 l12">
+                <div class="card-panel grey lighten-5 z-depth-3">
+                    <h1 class="flow-text center">ALL CHARACTERS:</h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col s12 m12 l12 z-depth-4">
+                <table id="data-table" class="table table-bordered stripe compact">
+                    <thead>
+                        <tr>
+                            <th>name</th>
+                            <th>comics</th>
+                            <th>events</th>
+                            <th>stories</th>
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <th>name</th>
+                            <th>comics</th>
+                            <th>events</th>
+                            <th>stories</th>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+    </section>
+   
+<!--Footer-->
+<footer id="dashboard-footer" class="page-footer red darken-1">
+    <div class="container">
+        <div class="row">
+            <div class="col l6 s12">
+                <h5 class="white-text">Marvel Comics</h5>
+                <p class="grey-text text-lighten-4">Dashborard of the Marvel characters</p>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            © 2018 Copyright 
+        </div>
+    </div>
+</footer>
+<!--End Footer-->
+
+<script src="node_modules\jquery\dist\jquery.min.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+<script src="node_modules\materialize-css\dist\js\materialize.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+<script type="text/javascript" src="js/pie.js"></script>
+<script type="text/javascript" src="js/table.js"></script>
+</body>
+</html>

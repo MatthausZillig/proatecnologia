@@ -1,0 +1,15 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "teste_pratico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthaus Zillig",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
